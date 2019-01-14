@@ -1,6 +1,22 @@
+@import url(http://fonts.goodleapis.com/css?family=Antic+Didone);
+
 body {
   color: #333333;
   font-family: sans-serif;
+}
+
+/* ページヘッダー */
+#siteTitle {
+  font-size: 30px;
+  line-height: 1.2;
+  margin-bottom: 0;
+  font-family: 'Antic Didne', serif;
+}
+
+#catchcopy {
+  font-size: 12px;
+  line-height: 1.5;
+  margintop: 5px;
 }
 
 p {
@@ -38,6 +54,11 @@ table th {
 table caption {
   text-align: left;
   font-weight: bold;
+}
+
+/* 画像キャプション */
+figcaption {
+  font-size: 12px;
 }
 
 /* 見出し */
