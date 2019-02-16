@@ -19,6 +19,17 @@ body {
   margintop: 5px;
 }
 
+/* ページフッター */
+#pageFoot {
+  border-top: solid 1px #CCCCCC;
+  margin-top: 15px;
+}
+
+#copyright small {
+  font-size: 12px;
+  line-height:1.5;
+}
+
 p {
   font-size: 14px;
   line-height: 1.429;
